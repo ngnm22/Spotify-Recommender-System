@@ -1,4 +1,4 @@
-# Spotify-Recommender-System
+# Spotify Recommender System
 The goal of creating our music recommender system 
 is to personalise recommendations to users based on their listening 
 history and preferences. Our approach will focus on playlist 
