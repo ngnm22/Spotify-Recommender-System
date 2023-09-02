@@ -11,4 +11,6 @@ effectiveness by comparing its performance to a non-personalised,
 popularity based method using RMSE, Hit@K ratio and NDCG as 
 evaluation metrics.
 
+The video above demostrates how the system would work.
+
 Note: this repository only shows the code as the Million Playlist Dataset is too large to attach
